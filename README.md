@@ -6,7 +6,7 @@
 
 This repository contains a Google Colab notebook that adapts the [RMSX and Flipbook package](https://github.com/AntunesLab/rmsx) by AntunesLab into a guided, user-friendly workflow. The original package is a powerful tool for high-resolution mapping of protein motions over time, combining the features of RMSD and RMSF into a unified metric called RMSX.
 
-The **novelty of this notebook** is accessibility: the original codebase assumes a local Python/R/ChimeraX environment. This notebook removes that barrier by running entirely in Google Colab — no local installation required. It is restructured with step-by-step cells, inline explanations, and simplified parameter inputs so that researchers can get results quickly, even without a dedicated computational setup.
+The **novelty of this notebook** is accessibility: the original codebase assumes a local Python/R/ChimeraX environment. This notebook removes that barrier by running entirely in Google Colab, thus no local installation required. It is restructured with step-by-step cells, inline explanations, and simplified parameter inputs so that researchers can get results quickly, even without a dedicated computational setup.
 
 ## What is RMSX?
 

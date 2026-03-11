@@ -27,7 +27,6 @@ The original QuickStart notebook (`RMSX_FlipBook_Quickstart.ipynb`) is designed 
 - Provides clearly labeled input cells for uploading trajectory and topology files
 - Adds inline markdown explanations for each analysis step
 - Handles Colab-specific display for output heatmaps and plots
-- Includes inline GIF display for PyMOL-generated animations
 - Covers single-chain RMSX, multi-chain RMSX, and RMSF fluctuation reporting
 
 ## How to Use

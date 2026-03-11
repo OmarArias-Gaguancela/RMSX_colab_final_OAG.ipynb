@@ -1,4 +1,4 @@
-# RMSX Google Colab Notebook — User-Friendly Adaptation
+# RMSX Google Colab Notebook: User-Friendly Adaptation
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QurBP0dpuu3uKvKq88_cU49qpDZln9Xg?usp=sharing)
 
